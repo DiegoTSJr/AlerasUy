@@ -1,4 +1,35 @@
 /**/
-.btnLogin {
-   color:#6d014b;
+.imgContenedor {
+  text-align: center; 
+  margin-top: 150px; 
+  width: auto;
+}
+
+.passPlace {
+  text-align: left;
+}
+
+.btnLogin{
+  text-align: center; 
+  background-color:#6d014b;
+  width: 95%; 
+  margin: 0 auto;
+}
+
+.bodyLogin{
+  background-color: #6d014b;
+}
+
+.bodyHome{
+  background-color: #6d014b;
+}
+
+.web{
+  width: auto; 
+  height: auto;
+}
+
+.btnTB{
+  background-color: #6d014b;
+  font-style: Geneva;
 }
